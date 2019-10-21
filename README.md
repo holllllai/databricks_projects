@@ -1,5 +1,5 @@
 # databricks_projects
-This is a link to all my databricks projects
+This is a repo containing links to all my databricks projects
 # 1. Predicting Cat/Dog Owners from Youtube Comments
 For this project, I achieved the following things:
 · Trained a model to identify cat or dog owners from their YouTube comments. Obtained training data by filtering 6M comments heuristically, then manually labelling them based on statements such as ”I have a dog/cat”. Used Apache Spark and achieved 90% accuracy on held-out test data.
